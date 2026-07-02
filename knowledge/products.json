@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "name": "Mug",
+      "price": 399
+    },
+    {
+      "name": "600ml Bottle",
+      "price": 500
+    },
+       {
+      "name": "750ml Bottle",
+      "price": 650
+    },
+       {
+      "name": "1000ml Bottle",
+      "price": 750
+    }
+  ]
+}
